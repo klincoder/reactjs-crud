@@ -1,0 +1,45 @@
+/******************************
+  CONTENT WRAPPER - DEFAULT
+*****************************/
+.content-wrapper {
+  min-height: calc(100vh - 110px);
+}
+
+/************
+  FOOTER
+**********/
+.footer-wrapper {
+  position: relative;
+  left: 0;
+  bottom: 0;
+}
+.footer {
+  padding: 10px 0px;
+  background-color: #212529;
+  color: #fff;
+  text-align: center;
+}
+
+/*****************************
+  SECTION - PROJECT DETAILS
+*************************/
+.section-proj-details {
+  padding: 50px 0px;
+  background-color: #f2f2f2;
+}
+
+/*****************************
+  SECTION - PROJECT DEMO
+*************************/
+.section-proj-demo {
+  padding: 50px 0px;
+}
+
+/**************
+  ERROR CLASS
+***************/
+.error {
+  position: relative;
+  color: red;
+  font-size: 0.7rem;
+}
